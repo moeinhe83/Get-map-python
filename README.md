@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 The Name Of The Output File ===> map.html
 
-Output File Format ===> html
+Output File Format ==> html
 
 To run the program ===> python map.py
 
