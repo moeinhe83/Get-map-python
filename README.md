@@ -8,7 +8,7 @@ The Name Of The Output File ===> map.html
 
 Output File Format ===> html
 
-To run the program ==> python map.py
+To run the program ===> python map.py
 
 Required packages For Python
 
