@@ -8,7 +8,7 @@ The Name Of The Output File ===> map.html
 
 Output File Format ===> html
 
-To Run the Program ===> python map.py
+To Run The Program ===> python map.py
 
 Required Python Packages For This Program ===> folium
 
