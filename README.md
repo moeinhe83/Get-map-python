@@ -10,7 +10,7 @@ Output File Format ===> html
 
 To run the program ===> python map.py
 
-Required Python Packages For This program ===> folium
+Required Python Packages For This Program ===> folium
 
 folium ===> To Install ==> pip install folium
 
